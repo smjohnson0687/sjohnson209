@@ -1,2 +1,4 @@
 # wipSite
-The first step of a web site.
+# a.) General site layout and design:
+# b.) Functions the site will offer: 
+#
