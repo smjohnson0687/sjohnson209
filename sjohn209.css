@@ -1,0 +1,24 @@
+body { background-color: #000000;
+      color: #d6e3ff;
+	  font-family: Verdana, Arial, sans-serif;
+}
+header { background-color: #000000;
+       color: #003366;
+	   font-family: "Times New Roman", serif;
+}
+h1 { line-height: 200%;
+}
+nav { font-weight: bold; 
+}
+.category { font-weight: bold;
+            background-color: #000000;
+			color: #003366;
+			font-size: 1.1em;
+}
+footer { font-size: 0.70em;
+       font-style: italic;
+}
+#wrapper { width: 80%;
+          margin-right: auto;
+		  margin-left: auto;
+}
