@@ -4,7 +4,7 @@ body { background-color: #000000;
 }
 header { background-color: #000000;
        color: #003366;
-	   font-family: "Monospace", Courier New;
+	   font-family: Courier, Courier New, serif;
 }
 h1 { line-height: 200%;
 }
