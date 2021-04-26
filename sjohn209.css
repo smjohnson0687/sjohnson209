@@ -1,5 +1,5 @@
 body { background-color: #000000;
-      color: #fff;
+      color: #FFFFFF;
 	  font-family: Verdana, Arial, sans-serif;
 }
 header { background-color: #000000;
@@ -16,7 +16,7 @@ nav { font-weight: bold;
 			font-size: 1.1em;
 }
 footer { font-size: 0.70em;
-	color: #fff;
+	color: #FFFFFF;
        font-style: italic;
 }
 #wrapper { width: 80%;
