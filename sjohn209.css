@@ -22,16 +22,6 @@ header {
 	font-family: Courier, Courier New, serif;
 	font-size: 48px;
 }
-h2 { 	line-height: 100%;
-	color: #fff;
-	font-family: Courier, Courier New, serif;
-	font-size: 24px;
-}
-h3 { 	line-height: 100%;
-	color: #fff;
-	font-family: Courier, Courier New, serif;
-	font-size: 18px;
-}
 h4 { 	line-height: 100%;
 	color: #fff;
 	font-family: Courier, Courier New, serif;
@@ -123,6 +113,32 @@ a:visited{
         -o-animation: mainFadeIn 2s forwards;
         animation: mainFadeIn 2s forwards;
         animation-delay: 1.6s;
+        opacity: 0;
+        display: flex;
+        align-items: center;
+        position: relative;
+      }
+	  h2{
+        font-family: 'Courier New', monospace;
+        color: #fff;
+        font-size: large;
+        -webkit-animation: mainFadeIn 2s forwards;
+        -o-animation: mainFadeIn 2s forwards;
+        animation: mainFadeIn 2s forwards;
+        animation-delay: 2s;
+        opacity: 0;
+        display: flex;
+        align-items: center;
+        position: relative;
+      }
+	  h3{
+        font-family: 'Courier New', monospace;
+        color: #fff;
+        font-size: small;
+        -webkit-animation: mainFadeIn 2s forwards;
+        -o-animation: mainFadeIn 2s forwards;
+        animation: mainFadeIn 2s forwards;
+        animation-delay: 2.4s;
         opacity: 0;
         display: flex;
         align-items: center;
