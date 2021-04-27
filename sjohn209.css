@@ -3,9 +3,11 @@ body { background-color: #000000;
 	  font-family: Verdana, Arial, sans-serif;
 }
 header { background-color: #000000;
-       color: #FFFFFF;
-	font-size: large;
+	header { background-color: #000000;
+       color: #fff;
 	   font-family: Courier, Courier New, serif;
+font-size: 24px;
+}
 }
 h1 { line-height: 200%;
 }
