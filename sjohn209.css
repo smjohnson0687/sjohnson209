@@ -7,22 +7,22 @@ header { background-color: #000000;
 	font-family: Courier, Courier New, serif;
 	font-size: 24px;
 }
-h1 { 	line-height: 200%;
+h1 { 	line-height: 150%;
 	color: #fff;
 	font-family: Courier, Courier New, serif;
-	font-size: 20px;
+	font-size: 36px;
 }
-h2 { 	line-height: 150%;
+h2 { 	line-height: 130%;
 	color: #fff;
 	font-family: Courier, Courier New, serif;
-	font-size: 16px;
+	font-size: 24px;
 }
-h3 { 	line-height: 125%;
+h3 { 	line-height: 120%;
 	color: #fff;
 	font-family: Courier, Courier New, serif;
-	font-size: 12px;
+	font-size: 18px;
 }
-h4 { 	line-height: 112%;
+h4 { 	line-height: 110%;
 	color: #fff;
 	font-family: Courier, Courier New, serif;
 	font-size: 12px;
