@@ -1,12 +1,8 @@
-# wipSite
-# a.) General site layout and design:
-#         Main page will show contact Information and  on the bottom an About me and a Projects link 
-# b.) Functions the site will offer: 
-# 		  Help people get into contact with me as well as learn a little about me.
-#To complete:
-#	1) Get the text centered vertically as well as horizontally
-#	2) create the other two HTML pages
-#		a) First get the text all in the file
-#		b) Get images to show up on the page
-#		c) Format in the correct locations	
-#	3) Link the pages together
+#Modify headers, especially with the Projects page in mind.
+#Get Sticky footers for pages links
+#Get page links on the same line, seperated by a tab
+#POSSIBLY have them only appear when mouse over the bottoms
+#try to get the background to work.... not currently working.
+#add in animations when loading in, bring in headers then the other information
+#on index change layout to make it look neat 
+#on others, change the text to stay more consistently in same place
