@@ -26,6 +26,15 @@ h4 { 	line-height: 100%;
 	font-family: Courier, Courier New, serif;
 	font-size: 12px;
 }
+h5{
+        font-family: 'Courier New', monospace;
+        color: #fff;
+        font-size: small;
+        display: flex;
+        align-items: center;
+		justify-content: center;
+        position: relative;
+}
 nav { font-weight: bold; 
 }
 .category { font-weight: bold;
@@ -142,6 +151,8 @@ a:visited{
         display: flex;
         /*align-items: center;*/
         position: relative;
+		padding-right: 15px;
+		padding-left: 15px;
       }
         span {
           width:0;
