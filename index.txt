@@ -1,0 +1,42 @@
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SJohnson209</title>
+<link rel="stylesheet" href="sjohn209.css">
+<div class="container">
+    <div class="box">
+
+        <div class="title">
+            <span class="block"></span>
+            <h1>Stephen M Johnson<span></span></h1>
+        </div>
+	<strong>
+        <div class="role">
+            <div class="block"></div>
+            <p><a href="tel:209-689-9770">(209)689-9770</a></p>
+        </div><br>
+		<div class="role">
+            <div class="block"></div>
+            <p><a href = "mailto: smjohnson0687@gmail.com">smjohnson0687@gmail.com</a> </p>
+        </div><br>
+		<div class="role">
+            <div class="block"></div>
+            <p><a href="https://www.linkedin.com/in/stephen-johnson-240981140"> Linked-in</a></p>
+        </div></br>
+	</strong>
+	<h3>
+	<a href = "https://www.credly.com/badges/72eb4b1f-387d-4b6c-a3fc-f0d0df592e72?source=linked_in_profile">
+	<img src = "Images/CompTIA.png" width = "85" height = "85" style ="padding-right:25px">
+	</a>
+	<a href = "diploma.html">
+	<img src = "Images/SJDCLogoForBlackBG340.png" width = "58.5" height = "85" style = "padding-left: 25px">
+	</a>
+    </h3>
+	</div>
+	
+</div>
+
+<footer class = "footer"><div class="hidden">
+	<a href="AboutStephenJohnson.html">About Me</a> &emsp; <a href = "sjProjects.html">Projects</a>
+
+</div>
+</footer>
